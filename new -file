@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+cout<<"My name is Muhammad Bilal Saleem"<<endl;
+cout<<"roll no. 23-SET-016"<<endl;
+cout<<"software engeering technology department"<<endl;
+
+return 0;
+}
